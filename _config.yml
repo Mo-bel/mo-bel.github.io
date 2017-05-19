@@ -1,5 +1,5 @@
 # Permalinks
-permalink:      /:categories/:year/:title
+permalink:      /:year/:categories/:title
 
 # Setup
 title:          Mobel

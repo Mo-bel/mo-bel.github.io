@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Internet of Things Development (#14)"
+title:  "Internet of Things (#14)"
 author: "Alex Manarpies"
 categories: events
 ---

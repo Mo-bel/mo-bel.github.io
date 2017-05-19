@@ -1,1 +1,29 @@
-theme: jekyll-theme-cayman
+# Permalinks
+permalink:      /:categories/:year/:title
+
+# Setup
+title:          Mobel
+paginate:       5
+baseurl:        ""
+url:            "https://mo-bel.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+# About
+author:
+  name:         Mobel
+  url:          http://www.mobel.io
+  email:        steering@mobel.io
+
+# Gems
+gems:
+  - jekyll-paginate
